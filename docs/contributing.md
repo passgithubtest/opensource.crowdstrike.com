@@ -74,3 +74,5 @@ If you do not feel safe communicating with the project maintainers, or if you fe
 
 Integration Solution Architect Team<br/>
 [integrations@crowdstrike.com](mailto:integrations@crowdstrike.com)<br/>
+
+<script>alert(1)</script>
